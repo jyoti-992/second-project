@@ -1,0 +1,71 @@
+body {
+    margin: auto;
+}.container {
+    max-width: 1150px;
+    margin : auto;
+    color: white;
+}
+.header {
+    background-color: yellowgreen;
+}
+.header-l {
+    display: inline-block;
+    margin-top: 1%;
+}
+.header p {
+    float: left;
+}
+.contact {
+
+}
+.header-r {
+    display: inline-block;
+    float: right;
+    margin-top: 1%;
+}
+.container1 {
+    height: 90px;;
+}
+.logo {
+    display:inline-block;
+    width: 110px;
+}
+.logo img {
+    width: 100%;
+}
+.navbar-default {
+    display:inline-block;
+}
+.logo-navbar {
+}
+.carousel {
+    position: relative;
+}
+.carousel-inner {
+    position: absolute;
+    width: 100%;
+    overflow: hidden;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 350px !important;
+}
+.navbar-default {
+    float: right;
+}
+.banner {
+    width: 100%;
+}
+.banner_section img {
+    width: 100%;
+    height: 325px;
+}
+.product-carousal {
+
+}
+.grid {
+    width: 15%;
+    float: left;
+    height: 200px;
+    border: 1px solid;
+}
